@@ -23,7 +23,7 @@ The module is available for the drupal 7.x & commercekickstart 1.2-1.59 and 2.0-
 * Option to cancel subscriptions  in shop frontend and admin side
 * Responsive templates	
 
-<a href= "https://www.novalnet.de/"> Comprehensive overview all Commerce Kickstart Payment Gateway features. </a>
+<a href= "https://www.novalnet.de/produkte"> Comprehensive overview all Commerce Kickstart Payment Gateway features. </a>
 
 For detailed documentation and any technical inquiries, please contact <a href="mailto:sales@novalnet.de"> sales@novalnet.de </a>
 
@@ -68,7 +68,7 @@ Gutenbergstr. 2<br>
 Deutschland<br>
 Web: <a href= "https://www.novalnet.de/"> www.novalnet.de </a>
 
-## Novalnet AG
+## Novalnet AG 
 
 Novalnet AG is a leading <a href="https://www.novalnet.de/zahlungsinstitut"> financial services institution </a> offering payment gateways for processing online payments. Operating in the market as a full payment service provider Novalnet AG provides online merchants user-friendly payment integration with all major shop systems and self-programmed sites.
 
