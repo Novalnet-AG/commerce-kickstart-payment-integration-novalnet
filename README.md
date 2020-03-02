@@ -63,8 +63,8 @@ For more information about the Commerce Kickstart Payment Integration by Novalne
 
 Novalnet AG<br>
 Zahlungsinstitut (ZAG)<br>
-Gutenbergstr. 2<br>
-85737 Ismaning<br>
+Feringastr. 4<br>
+85774 Unterföhring<br>
 Deutschland<br>
 Web: <a href= "https://www.novalnet.de/"> www.novalnet.de </a>
 
