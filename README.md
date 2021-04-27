@@ -1,5 +1,5 @@
 # COMMERCE KICKSTART PAYMENT INTEGRATION BY NOVALNET
-The Commerce Kickstart Payment Gateway by Novalnet enables secure integration of payments and payment services for Commerce Kickstart shop. It helps <a href= "https://www.novalnet.de/produkte"> optimize payment processing </a>,enrich customer experiences and improve conversion rates through one platform. 
+<a href="https://www.novalnet.com/modul/commercekickstart-payment-module">Commerce Kickstart</a> Payment Gateway by Novalnet enables secure integration of payments and payment services for Commerce Kickstart shop. It helps <a href= "https://www.novalnet.de/produkte"> optimize payment processing </a>,enrich customer experiences and improve conversion rates through one platform. 
 
 ## Integration requirements
 Novalnet <a href= "https://www.novalnet.de/"> merchant account </a> is required for processing both international and local payments through the Commerce Kickstart Payment Gateway. One contract with Novalnet eliminates the need to establish multiple contracts with different service providers from checkout to debt collection. 
